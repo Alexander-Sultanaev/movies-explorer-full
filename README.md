@@ -25,7 +25,7 @@
 
 ## Запуск проекта:
 - Клонировать репозиторий.
-- Запускаем сервер в терминале перейти(команда "cd" в терминале) в репозиторий movies-explorer-full\movies-explorer-api и использовать команду npm start.
+- Запускаем сервер в терминале, переходим(команда "cd" в терминале) в репозиторий movies-explorer-full\movies-explorer-api и использовать команду npm start.
 - Запускаем Фронтенд часть сайта. Создаем новый терминал и переходим в репозиторий фронтенда movies-explorer-full\movies-explorer-frontend и использовать команду npm start>
 - Появится сообщение: Something is already running on port 3000.
 Would you like to run the app on another port instead? » (Y/n) Жмем Y и запускается сайт)
